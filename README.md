@@ -1,4 +1,4 @@
-<img width="723" height="795" alt="image" src="https://github.com/user-attachments/assets/ded69be5-ab9c-4a47-b50b-1ff1ddc37372" /># Bank Management Application
+# Bank Management Application
 
 ## 1. Overview
 
@@ -279,27 +279,32 @@ Bank-Management-System/
 
 ### Credit Transaction
 
-![Credit](screenshots/credit.png)
+<img width="757" height="835" alt="image" src="https://github.com/user-attachments/assets/23917f33-6138-4940-98c6-bad079a0a274" />
+
 
 ### Debit Transaction
 
-![Debit](screenshots/debit.png)
+<img width="752" height="825" alt="image" src="https://github.com/user-attachments/assets/e9a80990-3417-45ca-bee0-6d64be5047e4" />
+
 
 ### Fund Transfer
 
-![Transfer](screenshots/transfer.png)
+<img width="993" height="865" alt="image" src="https://github.com/user-attachments/assets/287f528e-c971-4fbf-a1b6-667eab6ecc4e" />
+
 
 ### Transaction History
 
-![History](screenshots/history.png)
+<img width="960" height="817" alt="image" src="https://github.com/user-attachments/assets/306370f8-9b80-4d99-9102-92fbae48f3e0" />
+
 
 ### Account Overview
 
-![Accounts](screenshots/all_accounts.png)
+<img width="838" height="790" alt="image" src="https://github.com/user-attachments/assets/2e62f3dd-a02b-4013-a90f-0fd30b649875" />
+
 
 ### Bank Statistics
 
-![Statistics](screenshots/statistics.png)
+<img width="828" height="786" alt="image" src="https://github.com/user-attachments/assets/351fc820-5868-44fa-81ac-a8a15d0e7e10" />
 
 ---
 
