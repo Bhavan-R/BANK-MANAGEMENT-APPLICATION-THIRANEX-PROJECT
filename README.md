@@ -1,4 +1,4 @@
-# Bank Management Application
+<img width="723" height="795" alt="image" src="https://github.com/user-attachments/assets/ded69be5-ab9c-4a47-b50b-1ff1ddc37372" /># Bank Management Application
 
 ## 1. Overview
 
@@ -269,11 +269,13 @@ Bank-Management-System/
 
 ### Main Menu Interface
 
-![Main Menu](screenshots/main_menu.png)
+<img width="759" height="494" alt="image" src="https://github.com/user-attachments/assets/cc3c533a-405b-45ff-9857-c2bbbe67f175" />
+
 
 ### Account Creation
 
-![Create Account](screenshots/create_account.png)
+<img width="723" height="795" alt="image" src="https://github.com/user-attachments/assets/fc6e15a3-738a-4aa7-ac61-0e20b77bf765" />
+
 
 ### Credit Transaction
 
