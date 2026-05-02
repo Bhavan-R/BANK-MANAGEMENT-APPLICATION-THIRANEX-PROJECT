@@ -31,7 +31,7 @@ struct Account {
     string lastTransaction;
     int transactionCount;
     vector<Transaction> transactionHistory;
-    string pin;  // Added PIN field
+    string pin; 
 };
 
 class BankManagementSystem {
@@ -196,7 +196,7 @@ private:
         getline(ss, account.createdDate, '|');
         getline(ss, account.lastTransaction, '|');
         getline(ss, field, '|'); account.transactionCount = stoi(field);
-        getline(ss, account.pin, '|');  // Added PIN parsing
+        getline(ss, account.pin, '|');  
 
         return account;
     }
@@ -206,7 +206,7 @@ private:
         ss << account.accountNumber << "|" << account.customerName << "|" << account.email << "|"
            << account.phone << "|" << fixed << setprecision(2) << account.balance << "|"
            << account.accountType << "|" << account.createdDate << "|" << account.lastTransaction << "|"
-           << account.transactionCount << "|" << account.pin;  // Added PIN serialization
+           << account.transactionCount << "|" << account.pin; 
         return ss.str();
     }
 
@@ -309,7 +309,7 @@ public:
         getline(cin, newAccount.accountType);
         transform(newAccount.accountType.begin(), newAccount.accountType.end(), newAccount.accountType.begin(), ::toupper);
 
-        // Set PIN for new account
+      
         string pinInput;
         do {
             cout << "Set 4-digit PIN: ";
